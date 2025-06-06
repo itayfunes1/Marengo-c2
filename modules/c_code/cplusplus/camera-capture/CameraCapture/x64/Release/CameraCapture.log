@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\marengo\modules\c_code\cplusplus\camera-capture\CameraCapture\main.cpp(1,1): warning C4005: '_UNICODE': macro redefinition
+E:\marengo\modules\c_code\cplusplus\camera-capture\CameraCapture\main.cpp(1,1): message : '_UNICODE' previously declared on the command line
+  Generating code
+  4 of 4 functions (100.0%) were compiled.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CameraCapture.vcxproj -> E:\marengo\modules\c_code\cplusplus\camera-capture\CameraCapture\x64\Release\CameraCapture.exe

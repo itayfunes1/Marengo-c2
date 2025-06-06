@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: unresolved external symbol capCreateCaptureWindowW referenced in function wWinMain
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\marengo\modules\c_code\cplusplus\camera-capture\CameraCapture\x64\Debug\CameraCapture.exe : fatal error LNK1120: 2 unresolved externals
