@@ -1,4 +1,4 @@
-module server-tcp-go
+module github.com/itayfunes1/Marengo-c2
 
 go 1.23.0
 
